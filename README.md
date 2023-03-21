@@ -5,3 +5,4 @@ Steps:
 2. Download Tableau-mysql driver from the offical website
 https://www.tableau.com/support/drivers
 3. Once the database is ready, connect it to Tableau
+4. Setup the connection and visualize your data
