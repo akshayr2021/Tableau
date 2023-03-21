@@ -1,4 +1,4 @@
-#Citi Bike Analysis
+# Citi Bike Analysis
 
 Dataset Description: Sep-19 to Sep-20 Citi bike data
 
@@ -22,6 +22,7 @@ log_trip,
 year
 
 Analysis:
+
 Trips by gender/ user
 
 Starttime & Stoptime trends
