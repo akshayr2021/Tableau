@@ -27,11 +27,13 @@ end.station.longitude
 
 bikeid
 
-usertype
+usertype - Subscriber (Annual membership)/ Customer (Day pass)
 
 birth.year
 
-gender	age
+gender - Male/ Female
+
+age
 
 log_trip
 
