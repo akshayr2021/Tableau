@@ -27,7 +27,7 @@ Trips by gender/ user
 
 Starttime & Stoptime trends
 
-Top/Bottom stations by trips
+Top/Bottom stations trips using N parameters
 
 Yearly analysis dashboard
 
