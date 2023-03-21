@@ -38,6 +38,13 @@ log_trip
 
 year
 
+Analysis:
+Trips by gender/ user
+Starttime & Stoptime trends
+Top/Bottom stations by trips
+Yearly analysis dashboard
+Citi Bike Analysis Story
+
 Can also download data using below URL
 
 https://citibikenyc.com/system-data
