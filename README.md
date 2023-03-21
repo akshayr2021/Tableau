@@ -3,19 +3,12 @@
 Dataset Description: Sep-19 to Sep-20 Citi bike data
 
 Tripduration
-
 Starttime
-
 Stoptime
-
 start.station.id	
-
 start.station.name
-
 start.station.latitude
-
 start.station.longitude
-
 end.station.id
 
 end.station.name
